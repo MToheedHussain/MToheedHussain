@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MToheedHussain and currently in pursuit of bachelor's degree in electronics engineering.
-- 👀 I’m interested in Pogramming languages, Electronic Devices(Microcontrollers, Microprocessors, Arduino etc) 
-- 🌱 I’m currently learning MATLAB, Microcontroller programming
+- 👋 Hi, I’m @MToheedHussain. And I'm an Electronics Engineer.
+- 👀 I’m interested in Verilog, FPGA Design, Computer Architecture with some Signal Processing to top it off.
+- 🌱 I’m currently enrolled in Digital Design and Verification training program at National Institute of Electronics, Islamabad. 
 - 📫 How to reach me 
-- Discord: TigeR#4128 
+- Discord: tiger4128 
 
 <!---
 MToheedHussain/MToheedHussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
